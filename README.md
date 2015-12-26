@@ -1,6 +1,6 @@
 # Framework Grid CSS
 
-## Descrição do framework
+### Descrição do framework
 
 O framework grid css é uma estrutura que facilita o desenvolvimento de layout de interfaces de websites organizando o conteúdo de maneira organizada e de fácil gerenciamento.
 
@@ -10,11 +10,11 @@ O grid é versátil e pode ser adaptado a qualquer combinação de linhas e colu
 
 O grid é uma excelente opção para layouts responsivos, por fazerem uso de media queries podem se adaptar a qualquer dispositivo facilitando a criação de interfaces.
 
-## Como o grid é formado?
+### Como o grid é formado?
 
 Os frameworks grid tem como base dois atributos essenciais as linhas e as colunas. As linhas são usadas para alinhas as colunas, e as colunas compõem a estrutura final que envolvem o conteúdo do site. 
 
-## Referências
+### Referências
 
 Este framework grid foi criado usando como base um artigo do Site Point em que ajuda a compreender os sitemas de grid, ele foi traduzido pelo site Tableless.
 
